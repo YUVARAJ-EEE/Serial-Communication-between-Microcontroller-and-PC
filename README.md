@@ -1,4 +1,4 @@
-# Serial-Communication-between-Microcontroller-and-PC
+# Send and receive data between a microcontroller (Arduino/ESP32) and a PC
 
 Exp 4 Send and receive data between a microcontroller (Arduino/ESP32) and a PC.
 
